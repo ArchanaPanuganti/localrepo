@@ -1,3 +1,6 @@
 # This is my LocalRepo
+
+This is my first project
 <br>
-This is my project
+Author - Archana Panuganti
+
